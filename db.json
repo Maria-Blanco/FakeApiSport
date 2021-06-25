@@ -1,0 +1,19 @@
+{
+    "planes": [
+        {
+            "codigo": "CODE1", "name": "Nombre1", "plazo": "X meses", "anual": "X$", "pros": "Ventaja 1, Ventaja 2, Ventaja 3", "cons": "Restriccion 1, Restriccion 2, Restriccion 3", "com": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur deleniti minima, adipisci inventore maiores repellat!"
+        },
+        {
+            "codigo": "CODE2", "name": "Nombre2", "plazo": "Y meses", "anual": "V$", "pros": "Ventaja 4, Ventaja 5, Ventaja 6", "cons": "Restriccion 4, Restriccion 5, Restriccion 6", "com": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil dicta saepe alias commodi laudantium nulla."
+        },
+        {
+            "codigo": "CODE3", "name": "Nombre3", "plazo": "Z meses", "anual": "Y$", "pros": "Ventaja 7, Ventaja 8, Ventaja 9", "cons": "Restriccion 7, Restriccion 8, Restriccion 9", "com": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime illo natus consectetur ea quasi aliquid?"
+        },
+        {
+            "codigo": "CODE4", "name": "Nombre4", "plazo": "M meses", "anual": "Z$", "pros": "Ventaja a, Ventaja b, Ventaja c", "cons": "Restriccion a, Restriccion b, Restriccion c", "com": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias optio nihil, iste nisi accusantium saepe."
+        },
+        {
+            "codigo": "CODE6", "name": "Nombre5", "plazo": "N meses", "anual": "N$", "pros": "Ventaja x, Ventaja y, Ventaja z", "cons": "Restriccion x, Restriccion y, Restriccion z", "com": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum beatae dolore error provident quo voluptatem."
+        }
+    ]
+}
